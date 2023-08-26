@@ -7,4 +7,5 @@
 -Kency Pamela Oseguera Valdez 20201004556
 
 ## Funcionalidades
--El proyecto hace una simulacion del juego de meza "Uno", en el cual solicita al usuario el numero de jugadores entre el rango de 2 a 7, luego solicita el nombre de cada uno, toma una carta  
+-El proyecto hace una simulacion del juego de meza "Uno", en el cual solicita al usuario el numero de jugadores entre el rango 
+de 2 a 7, luego solicita el nombre de cada uno, toma una carta  
