@@ -32,3 +32,5 @@
 * El indice para tomar cartas de la baraja es -1. 
 
 ### Utilizando SQL
+* Crea una tabla que la almacena los datos de juegoUno.
+ este permite definir funciones qcomo jeugos jugados que contabiliza cada juego, asì como juegos ganados por cada jugador.
