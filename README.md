@@ -34,3 +34,7 @@
 ### Utilizando SQL
 * Crea una tabla que la almacena los datos de juegoUno.
  este permite definir funciones qcomo jeugos jugados que contabiliza cada juego, asì como juegos ganados por cada jugador.
+
+## Video
+[Video](https://drive.google.com/drive/my-drive)
+
