@@ -36,5 +36,5 @@
  este permite definir funciones qcomo jeugos jugados que contabiliza cada juego, asì como juegos ganados por cada jugador.
 
 ## Video
-[Video](https://drive.google.com/drive/my-drive)
+[Video]([https://drive.google.com/drive/my-drive](https://drive.google.com/file/d/1czLrWHE1J01X8OI7XjoFLbAG2t4mISsY/view?usp=drive_link)https://drive.google.com/file/d/1czLrWHE1J01X8OI7XjoFLbAG2t4mISsY/view?usp=drive_link)
 
